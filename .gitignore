@@ -1,6 +1,7 @@
 .DS_Store
 .test
 *.iml
-modules
 precompiled
 test-result
+lib
+tmp

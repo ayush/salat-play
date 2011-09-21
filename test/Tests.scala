@@ -14,7 +14,7 @@ import org.scalatest._
 import org.scalatest.junit._
 import org.scalatest.matchers._
 
-class BasicTests extends UnitFlatSpec with ShouldMatchers {
+class SalatTests extends UnitFlatSpec with ShouldMatchers {
 
   "Serializing an instance of User" should "work" in {
 

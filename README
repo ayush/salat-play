@@ -1,0 +1,2 @@
+Tested with play 1.2.3 and scala-0.9.1
+Make sure you update modules/scala-0.9.1 to point to the right location for your scala module
